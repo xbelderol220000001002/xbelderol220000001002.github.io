@@ -1,0 +1,18 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    text-align: start;
+    margin: 50px 500px;
+}
+nav img {
+    display: block;
+    margin: 0 auto;
+    width: 180px;
+}
+#contact{
+    text-align: center;
+}
+.list{
+    margin-left: 800px;
+}
