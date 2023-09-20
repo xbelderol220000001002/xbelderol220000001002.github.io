@@ -504,11 +504,18 @@ a {
     display: inline-block;
     width: auto
 }
-.w4-center {
+.w3-container {
+  position: relative;
+  width: 100%; /* Adjust as needed */
+  height: 100vh; /* Optional: Make the container take the full viewport height */
+}
+
+.w3-centered-text {
   position: absolute;
-  bottom: 0; 
-  display: inline-block;
-  width: auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+
 }
 
 .w3-bar .w3-bar-item {
