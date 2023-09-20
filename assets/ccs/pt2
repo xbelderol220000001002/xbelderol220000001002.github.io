@@ -909,7 +909,7 @@ a {
     transform: translate(-50%,-50%);
     -ms-transform: translate(-50%,-50%)
 
-.w4-display-middle-bottom {
+.w3-display-middle {
     position: absolute;
     top: 70%;
     left: 70%;
