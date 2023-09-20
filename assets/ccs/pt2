@@ -504,6 +504,12 @@ a {
     display: inline-block;
     width: auto
 }
+.w4-center {
+  position: absolute;
+  bottom: 0; 
+  display: inline-block;
+  width: auto;
+}
 
 .w3-bar .w3-bar-item {
     padding: 8px 16px;
@@ -903,7 +909,7 @@ a {
     transform: translate(-50%,-50%);
     -ms-transform: translate(-50%,-50%)
 
-.w3-display-middle-bottom {
+.w4-display-middle-bottom {
     position: absolute;
     top: 70%;
     left: 70%;
