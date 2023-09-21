@@ -17,12 +17,9 @@ body {
 }.wireframe-1-ajK {
   box-sizing: border-box;
   padding: 0.5rem 1.864rem 2.879rem 2.2rem;
+  max-width: 800px; /* I-set ang max-width */
   width: 100%;
-  overflow: hidden;
-  position: relative;
-  align-items: center;
-  display: flex;
-  flex-direction: column;
+  margin: 0 auto; /* Centering sa horizontal */
   background-color: #d0d9d4;
 }
 .wireframe-1-ajK .auto-group-y7xd-VUu {
