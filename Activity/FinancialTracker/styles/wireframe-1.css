@@ -17,13 +17,13 @@ body {
 }.wireframe-1-ajK {
   box-sizing: border-box;
   padding: 0.5rem 1.864rem 2.879rem 2.2rem;
-  width: 75%; /* Adjust the width as needed for your design */
+  width: 100%;
   overflow: hidden;
   position: relative;
+  align-items: center;
   display: flex;
   flex-direction: column;
-  background-color: #d0d9d4;
-  aspect-ratio: 16/9; /* 16:9 aspect ratio */
+  background-color: #d0d9d4; 
 }
 .wireframe-1-ajK .auto-group-y7xd-VUu {
   margin: 0rem 0.035rem 1.1rem 0rem;
