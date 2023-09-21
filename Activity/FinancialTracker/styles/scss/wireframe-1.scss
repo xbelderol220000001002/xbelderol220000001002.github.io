@@ -15,18 +15,16 @@ input {
 body {
   width: 144rem;
 }.wireframe-1-ajK {
+ align-items: center;
+  cover-direction: column;
   box-sizing: border-box;
   padding: 0.5rem 1.864rem 2.879rem 2.2rem;
-  width: 75%; /* Adjust the width as needed for your design */
+  width: 100%;
   overflow: hidden;
   position: relative;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center; /* Vertically center content */
-  background-color: #d0d9d4;
-  aspect-ratio: 16/9; /* 16:9 aspect ratio */
-
+  display: cover;
+  background-color: #d0d9d4; 
+	
   .auto-group-y7xd-VUu {
     margin: 0rem 0.035rem 1.1rem 0rem;
     width: calc(100% - 0.0348rem);
