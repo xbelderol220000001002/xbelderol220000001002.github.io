@@ -21,8 +21,8 @@ body {
   overflow: hidden;
   position: relative;
   align-items: center;
-  display: flex;
-  flex-direction: column;
+  display: cover;
+  cover-direction: column;
   background-color: #d0d9d4;
 }
 .wireframe-1-ajK .auto-group-y7xd-VUu {
