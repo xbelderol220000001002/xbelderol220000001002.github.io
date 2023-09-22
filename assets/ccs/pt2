@@ -16,8 +16,6 @@ html {
 body {
             background-color: #A68F97;
             margin: 0;
-            padding: 0;
-            border-image: ;
 }
 
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section {
