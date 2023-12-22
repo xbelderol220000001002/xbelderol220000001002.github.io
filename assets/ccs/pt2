@@ -1776,3 +1776,10 @@ a {
 .w3-border-pale-blue,.w3-hover-border-pale-blue:hover {
     border-color: #e7ffff!important
 }
+.logo{
+position: relative;
+font-size: 60px;
+color: #838996;
+text-decoration: none;
+font-weight: 600;
+}
